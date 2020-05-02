@@ -13,3 +13,12 @@ main {
   padding: 0 1em;
   margin: 0 auto;
 }
+
+li {
+  margin-bottom: .5em;
+}
+
+.loading {
+  color: transparent;
+  background: #eceff1;
+}
